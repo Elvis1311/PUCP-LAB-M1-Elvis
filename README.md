@@ -1,4 +1,6 @@
 # PUCP-LAB-M1
+# PUCP-LAB-M1
+Estudiante: Elvis Rojas
 
 API de inventario en memoria construida con FastAPI y Python 3.12.
 
